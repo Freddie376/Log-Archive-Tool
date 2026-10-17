@@ -2,7 +2,7 @@
 
 A simple Bash command line tool that compresses a log directory into a `tar.gz` file, stores it in a new directory, and records the date and time of each archive.
 
-Project from roadmap.sh: **PASTE THE PROJECT PAGE URL HERE**
+Project from roadmap.sh: https://roadmap.sh/projects/log-archive-tool
 
 ## Features
 
@@ -22,7 +22,7 @@ Project from roadmap.sh: **PASTE THE PROJECT PAGE URL HERE**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/log-archive.git
+   git clone https://github.com/Freddie376/log-archive.git
    cd log-archive
    ```
 2. Make the script executable:
@@ -109,4 +109,4 @@ log-archive <log-directory>
 
 ## What I learned
 
-Write this part in your own words after you finish.
+This project has helped me to use nano, write a script and make it executable to build a log archive tool.
